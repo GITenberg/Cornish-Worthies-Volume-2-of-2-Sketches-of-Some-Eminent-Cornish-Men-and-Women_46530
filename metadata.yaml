@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: "Cornish Worthies, Volume 2 (of 2)\r\nSketches of Some Eminent Cornish Men\
   \ and Women"
 url: http://www.gutenberg.org/ebooks/46530
